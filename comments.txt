@@ -1,0 +1,1 @@
+config_3d_printer.txt- configuration file for smoothieboard
